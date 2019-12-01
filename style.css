@@ -1,0 +1,193 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+.first .bg-dark{
+    top: 43px;
+    position: absolute;
+    width: 94%;
+    border-radius: 22px;
+    left: 38px;
+    background: #fff!important;
+    
+}
+ @media (min-width: 360px) and 
+ (max-width: 768px) { 
+.first .bg-dark{
+	position: absolute;
+	left: 13px;
+  }
+  }	
+.first p{
+position: absolute;
+    top: 50%;
+    left: 4%;
+    font-size: 53px;
+    color: #fff;
+    font-weight: lighter;
+    color: black;
+}
+ @media (min-width: 360px) and 
+ (max-width: 768px){
+ .first p{	
+ 
+position: absolute;
+    top: 17%;
+    left: 4%;
+    font-size: 31px;
+    color: #fff;
+    font-weight: lighter;
+    color: black;
+}
+}
+   .first h6{
+    position: absolute;
+    top: 65%;
+    left: 4%;
+    font-size: 75px;
+    color: #fff;
+    font-weight: lighter;
+    color: black;
+}
+ @media (min-width: 360px) and 
+ (max-width: 768px) { 
+.first h6{
+	 position: absolute;
+    top: 17%;
+    font-size: 33px;
+    left: 41%;
+}
+  }
+  	
+.first .img1{
+
+    position: absolute;
+    top: 142px;
+    right: 204px;
+}
+
+   
+
+ @media (min-width: 360px) and 
+ (max-width: 768px) { 
+.first .img1{
+	position: absolute;
+	 top:0%;
+	 display: none;
+  }
+  }
+.first .img2{
+  max-width: 167px;
+    position: absolute;
+    top: 120%;
+    left: 79px;
+}
+
+@media (min-width: 360px) and 
+ (max-width: 768px) { 
+.first .img2{
+
+max-width: 167px;
+    position: absolute;
+    top: 24%;
+    left: 37px;
+}
+}
+.two{
+	padding: 80px 0px;
+}
+.two p{
+	text-align: center;
+	font-size: 55px;
+    font-weight: lighter;
+    color: cadetblue;
+}
+
+.two i{
+	font-family: "Font Awesome 5 Free";
+    color: cadetblue;
+    font-size: 78px;
+}
+.two h3{
+text-align: center!important;
+    font-family: serif;
+    
+    margin-bottom: 44px;
+}
+.two input{
+	background: transparent;
+    padding: 0px 28px;
+    font-size: 27px;
+}
+
+.two input:hover{
+	transform: translate(1);
+	background-color: lime;
+
+}
+.three{
+	background-image:
+	 url(backgrounds/4683.png);
+	  
+	width: 100%;
+	 position: static;	
+	 background-repeat: no-repeat;
+}
+ 
+
+.three h1{
+	    font-size: 2.5rem;
+    /* position: absolute; */
+    
+    color: #982424;
+    width: 100%;
+    text-align: center;
+}
+ 
+.three p{
+	 
+	 text-align: center;
+    bottom: 310px;
+    margin-top: 243px;
+    color: #fff;
+}
+
+.four{
+	background-image:
+	 url('backgrounds/Rectangle 13.png');
+	 width: 100%;
+	  
+}
+.four p{
+	    margin-top: 200px;
+    margin-bottom: 220px;
+    color: #fff;
+    font-size: 31px;
+    text-align: center;
+}
+
+.four h1{
+	margin-top: 70px;
+    color: #fff;
+}
+.four input {
+	width: 80%;
+    left: 56px;
+    position: relative;
+    
+}
+.four a{
+	   left: 42%;
+    position: relative;
+}
+.last{
+	background-color: blue;
+}
+.footer{
+	padding: 30px 0px;
+}
+.last{
+	padding: 30px 15px;
+	color: white;
+}
